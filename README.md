@@ -1,2 +1,2 @@
-# C_33
-allowing multiple shots and making bird.trajectory array empty
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
